@@ -1,8 +1,5 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("....");
-
-        if dsjkdnas
-        else
+        System.out.println("....");  
     }
 }
